@@ -1,0 +1,463 @@
+#ORANGE{
+    background-color: orange;
+    text-align: center;
+    color: white;
+}
+#vloger {
+    background-image: image();
+   }
+   
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  
+  .maker {
+    position: absolute;
+    top: 110px;
+    left: 60px;
+  }
+
+ 
+  .maker-dot{
+    position: absolute;
+    top: 110.5px;
+    left: 150px;
+  }
+  
+  
+  .brand {
+    position: absolute;
+    top: 200px;
+    left: 55px;
+  }
+  
+  
+  .photographer {
+    position: absolute;
+    top: 360px;
+    left: 50px;
+  }
+  
+  
+  .subscribe {
+    position: absolute;
+    top: 430px;
+    left: 50px;
+  }
+
+    .subscribetxt {
+        position: absolute;
+        top: 435px;
+        left: 60px;
+        text-align: center;
+    
+  }
+  .videoimg{
+    position: absolute;
+    top: 250px;
+    right: 12px;
+  }
+    .welcome{
+        color: rgb(255, 102, 0);
+        position: absolute;
+        top: 100px;
+        left: 100px;
+        font-size: 150%;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+    .welcomescnd{
+        color: rgb(29, 28, 27);
+        position: absolute;
+        top: 130px;
+        left: 100px;
+        font-size: 200%;
+        font-family: 'Times New Roman', Times, serif;
+        
+
+    }
+    .text
+    {
+        color: rgb(134, 131, 125);
+        position: absolute;
+        top: 200px;
+        font-size: 200%;
+        left: 100px;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+    .read{
+        position: absolute;
+        top: 400px;
+        font-size: 200%;
+        left: 150px;
+       
+        
+    }
+    .readtxt {
+        color: rgb(26, 25, 23);
+        position: absolute;
+        top: 418px;
+        font-size: 100%;
+        left: 200px;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+    .back {
+        color: rgb(26, 25, 23);
+        position: absolute;
+        top: 418px;
+        font-size: 100%;
+        left: 200px;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+    .girl {
+        position: absolute;
+        top: 1022px;
+        right : 0px;
+        padding: auto;
+        
+    }
+    .frstimg
+    {
+        position: absolute;
+        top: 1358px;
+        right : 0px;
+        padding: auto;
+        
+    }
+    .scndimg
+    {
+        position: absolute;
+        top: 1456px;
+        right: 249px;
+        
+    }
+    .thirdimg
+    {
+        position: absolute;
+        top: 1510px;
+        right: 498px;
+    
+        
+    }
+    .pading{
+        padding:0px;
+
+    }
+    .main
+    {
+        position: absolute;
+        top: 1680px;
+
+        
+    }
+    .content{
+        position: absolute;
+        text-align: center;
+        width: 224;
+        height: 25;
+        font-size: 14px;
+        top:1200px;
+       padding: 0mm;
+       right: 500px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: black;
+    }
+    .content2{
+        position: absolute;
+        text-align: center;
+        width: 224;
+        height: 25;
+        font-size:35px;
+        top:1210px;
+       padding: 0mm;
+       LEFT: 500px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: black;
+    }
+    .orangeline{
+        position: absolute;
+        text-align: center;
+        width: 224;
+        height: 25;
+        font-size:35px;
+        top:1239px;
+       padding: 0mm;
+       LEFT: 550px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: black;
+    }
+    .content3{
+        position: absolute;
+        text-align: center;
+        width: 224;
+        height: 25;
+        font-size:14px;
+        top:1280px;
+       padding: 0mm;
+       LEFT: 400px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: black;
+    }
+    .girlglass{
+        position: absolute;
+        text-align: center;
+        width: 288px;
+        height: 370px;
+        font-size:14px;
+        top:1400px;
+       padding: 0mm;
+       LEFT: 220px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: black;
+
+    }
+    .text1{
+        position: absolute;
+        text-align: center;
+        width: 288px;
+        height: 370px;
+        font-size:36px;
+        top:1430px;
+       padding: 0mm;
+       LEFT: 570px;
+        font-family: Cabin-Regular,OpenSans,MyriadPro-Regular,AdobeInvisFont;
+        color: #000000;
+
+
+    }
+    .text2{
+        position: absolute;
+        text-align: center;
+        width: 288px;
+        height: 50px;
+        font-size:20px;
+        top:1480px;
+       padding: 0mm;
+       LEFT: 570px;
+        font-family:Cabin-Regular,OpenSans,MyriadPro-Regular,AdobeInvisFont;
+        color: #FF5400;
+
+
+    }
+    .text3{
+        position: absolute;
+        text-align: center;
+        width: 288px;
+        height: 50px;
+        font-size:14px;
+        top:1550px;
+       padding: 0mm;
+       LEFT: 570px;
+        font-family:Cabin-Regular,OpenSans,MyriadPro-Regular,AdobeInvisFont;
+        color: #666666;
+
+
+    }
+    .photoimg
+    {
+        position: absolute;
+        text-align: center;
+        width: 288px;
+        height: 50px;
+        font-size:14px;
+        top:1681px;
+       padding: 0mm;
+       LEFT: 512px;
+
+
+    }
+    .photoimg1
+    {
+        position: absolute;
+        text-align: center;
+        width: 288px;
+        height: 50px;
+        font-size:14px;
+        top:1681px;
+       padding: 0mm;
+       LEFT: 570px;
+       color: #424141;
+
+
+    }
+    .orangeb
+    {
+        position: absolute;
+        text-align: center;
+        width: 2000px;
+        height: 200px;
+        top:1900px;
+       padding: auto;;
+       color: #ff7b00;
+       background-color: #FF5400;
+
+
+    }
+    .orangebg{
+        position: absolute;
+        text-align: center;
+        width: 350px;
+        height: 200px;
+        top:1900px;
+       padding: 0mm;
+       LEFT: 0px;
+        
+
+    }
+    .men{
+        position: absolute;
+        text-align: center;
+        width: 350px;
+        height: 200px;
+        top:1900px;
+       padding: 0mm;
+       LEFT: 688px;
+
+    }
+    .orgtext{
+        position: absolute;
+        text-align: center;
+        width: 350px;
+        height: 200px;
+        top:1950px;
+       padding: 0mm;
+       LEFT: 150px;
+       color: white;
+
+    }
+    .orgtext1{
+        position: absolute;
+        text-align: center;
+        width: 350px;
+        height: 200px;
+        top:2000px;
+       padding: 0mm;
+       LEFT: 150px;
+       color: white;
+       font-weight: bold;
+
+    }
+    .blackbg{
+    position: absolute;
+        text-align: center;
+       width: 1000px;
+        top:2100px;
+       padding: 0mm;
+       LEFT: -24px;
+       right: 20px;
+       color: white;
+       font-weight: bold;
+
+    }
+    .blacktxt{
+    position: absolute;
+        text-align: center;
+       width: 1000px;
+        top:2150px;
+       padding: 0mm;
+       LEFT: -24px;
+       right: 20px;
+       color: #FFFFFF;
+       font-size: 42px;
+
+    }
+    .blacktxt1{
+        position: absolute;
+            text-align: center;
+           width: 1000px;
+            top:2220px;
+           padding: 0mm;
+           LEFT: -24px;
+           right: 20px;
+           color: #FFFFFF;
+           font-size: 18px;
+    
+        }
+        .blacktxt2{
+            position: absolute;
+                text-align: center;
+               width: 1000px;
+                top:2300px;
+               padding: 0mm;
+               LEFT: -24px;
+               right: 20px;
+               color: #FFFFFF;
+               font-size: 18px;
+        
+            }
+            .whitecam{
+                position: absolute;
+                top:2305px;
+               padding: 0mm;
+               right: 580px;
+
+            }
+            .whitecam1{
+                position: absolute;
+                top:2305px;
+               padding: 0mm;
+               right: 500px;
+
+            }
+            .socialmedia
+                {
+                    position: absolute;
+                    top:2600px;
+                   padding: 0mm;
+                   right: 450px;
+    
+                }
+                .copy
+                {
+                    position: absolute;
+                    top:2650px;
+                   padding: 0mm;
+                   right:380px;
+    
+                }
+                .unsubscribe
+                {
+                    position: absolute;
+                    top:2700px;
+                   padding: 0mm;
+                   right:250px;
+                   color: black;
+    
+                }
+               #orge {
+                    color: orange;
+                    font-weight: bold;
+                }
+                .footer{
+                position: absolute;
+                top:2800px;
+               padding: 0mm;
+               right: 100px;
+               width: 701px;
+               height: 11px;
+               color: black;
+               background-color: orangered;
+
+            }
+        
+        
+    
+    
+    
+
+
+
+  
