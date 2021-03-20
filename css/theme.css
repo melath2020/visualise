@@ -3,6 +3,16 @@
     text-align: center;
     color: white;
 }
+#ORANGE1{
+    background-color: rgb(255, 187, 0);
+    text-align: center;
+    color: white;
+}
+#ORANGE2{
+    background-color: rgb(255, 153, 0);
+    text-align: center;
+    color: white;
+}
 #vloger {
     background-image: image();
    }
